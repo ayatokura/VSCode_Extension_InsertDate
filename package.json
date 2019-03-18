@@ -2,6 +2,7 @@
 	"name": "insertdate",
 	"displayName": "Insert Date",
 	"description": "Visual Studio Code Extension to insert date",
+	"icon": "dateinserticon.png",
 	"version": "0.0.1",
 	"publisher": "ayatokura",
 	"engines": {
