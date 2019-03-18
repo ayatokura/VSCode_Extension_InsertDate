@@ -3,8 +3,13 @@
 	"displayName": "Insert Date",
 	"description": "Visual Studio Code Extension to insert date",
 	"version": "0.0.1",
+	"publisher": "ayatokura",
 	"engines": {
 		"vscode": "^1.32.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ayatokura/VSCode_Extension_InsertDate"
 	},
 	"categories": [
 		"Other"
